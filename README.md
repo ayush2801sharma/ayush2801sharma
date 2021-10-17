@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mr.Ayush Sharma ; an electronics and telecommunication bachelor of technology student
+- 👋 Hi, I’m Mr.Ayush Sharma ; an electronics and telecommunication, bachelor of technology 3rd year student
 - ![WhatsApp Image 2021-10-17 at 7 54 53 PM](https://user-images.githubusercontent.com/68229721/137631730-6e6efac7-74d2-4707-bb57-d52110e15676.jpeg)
 - A student of Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology,Mumbai, India.
 - 👀 I’m interested in Android , Web devoplopment 
