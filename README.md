@@ -11,5 +11,5 @@ ayush2801sharma/ayush2801sharma is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-- I put my projects here and i would like to colaborate and work on blockchain projects in future.
-- Currently searching industry projects and internships to gain industry experience.
+- I put my projects here .
+
